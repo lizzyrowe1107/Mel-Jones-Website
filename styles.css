@@ -11,8 +11,15 @@
   
   h1,
   h2,
-  h3 {
+  h3,
+  p {
     margin: 0;
+    text-align: center;
+  }
+
+  .project-link {
+    display: block;
+    text-align: center;
   }
   
   h1 {
@@ -43,6 +50,10 @@
    
 
   }
+
+  .contact {
+    text-align: center;
+}
   
   h2 {
     font-size: 48px;
